@@ -1,1 +1,1 @@
-# WGS-pipeline_mutation
+# WXS-pipeline_mutation
