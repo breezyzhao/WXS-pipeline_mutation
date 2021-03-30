@@ -3,7 +3,7 @@
 module add bwa/0.7.17 <br />
 module add samtools/1.9-new <br />
 
-im1_files=(/gpfs/data/davolilab/DNAseq_Jan2020/WGS/rawdata/~*~/~*~.fastq) <br />
+im1_files=(/gpfs/data/davolilab/DNAseq_Jan2020/WGS/rawdata/`*`/~*~.fastq) <br />
 im3_files=(/gpfs/data/davolilab/DNAseq_Jan2020/WGS/rawdata/~*~/) <br />
 im4_files=(/gpfs/data/davolilab/DNAseq_Jan2020/WGS/rawdata/~*~/aln-se.sam) <br />
 
