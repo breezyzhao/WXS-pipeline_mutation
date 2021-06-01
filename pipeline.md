@@ -17,6 +17,9 @@ done <br />
 ### 2.sh mutect2-funco.sh https://gatk.broadinstitute.org/hc/en-us/articles/360035894731-Somatic-short-variant-discovery-SNVs-Indels-
 
 
+## ps if we need to add group
+run addgroup.sh
+
 
 
 
