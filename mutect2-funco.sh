@@ -10,6 +10,8 @@
 
 bed="/gpfs/data/davolilab/backup/zhaox12/referencce/b37/genome.bed"
 ref_fasta="/gpfs/data/davolilab/backup/zhaox12/referencce/b37/references_b37_Homo_sapiens_assembly19.fasta"
+#hg38 
+#ref_fasta="/gpfs/data/davolilab/backup/zhaox12/referencce/ucsc-hg38/hg38.order/genome.fa"
 list="/gpfs/data/davolilab/projects/dbGAP/test/list"
 bam_path="/gpfs/data/davolilab/projects/dbGAP/test/bam/"
 proj_dir="/gpfs/data/davolilab/projects/dbGAP/test/GATK"
@@ -105,7 +107,8 @@ fi
 # known variants
 germline_resource_arg="--germline-resource /gpfs/data/davolilab/backup/zhaox12/referencce/b37/af-only-gnomad.raw.sites.vcf"
 pileup_variants="/gpfs/data/davolilab/backup/zhaox12/referencce/b37/somatic-b37-small_exac_common_3.vcf"
-
+#/gpfs/data/igorlab/ref/hg38/gatk-bundle/af-only-gnomad.hg38.vcf.gz
+#/gpfs/data/igorlab/ref/hg38/gatk-bundle/small_exac_common_3.hg38.vcf.gz
 
 
 #########################
